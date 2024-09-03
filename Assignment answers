@@ -1,1 +1,66 @@
-Following are the answers for the given assignment:
+QA ASSIGNMENT
+
+Name : HIMANSHI NEGI
+
+1. Write the Scenarios for Calculator.
+● Verify that the calculator performs basic arithmetic operations correctly like addition,
+subtraction etc.
+● If it is a scientific calculator then verify if it also handles logarithmic, trigonometric,
+factorial and decimal operations and provides accurate results.
+● Verify the functionality of memory buttons such as M+, M-, MC, MR. Also check if the
+calculator returns correct results after.
+● Check if the calculator correctly applies the BODMAS rule, check if it returns the correct
+result while applying square, square root function, percentage button.
+● Check the error handling, if the calculator is generating error messages when dividing by
+zero or performing invalid operations.
+● Verify that clear functions C and AC work as expected.
+● Verify that the display and the readability is clear under different lighting conditions to
+avoid confusions.
+● Check floating point precision for both small and large numbers.
+● Check if the calculator handles overflow of variables or not.
+● Check buttons exactly pass the values that are pressed by the users.
+● Check on the battery life of the calculator as per the specificationsṭ
+
+2. Write the Scenarios for Watch.
+● Verify that the watch displays the correct time and it must be accurate.
+● Check if the watch correctly displays the date and it must handle the leap year.
+● Verify the alarm functions in the clock, make sure the setting, editing and cancelling
+functions work properly.
+● Verify the stopwatch function as well. Check if the stop, pause, start and reset
+functionalities work properly.
+● If there is backlight functionality , then check if it turns off/on correctly and if it is usable
+in low light conditions.
+● Check the durability of the watch against the scratches, impacts and other physical
+damages.
+● Test the functionality for setting different time zones.
+● Check upon the battery life as per the specifications.
+● If it is a smartwatch, check connectivity features like bluetooth, WI-Fi, etc. Also check
+notification functionalities or alerts are properly working. Moreover check its fitness
+tracking features like heart rate monitoring , step count, etc.
+● Ensure that the buttons in the watch are responsive and functional
+
+3. Write the Scenarios for Sign up page of Gmail or Flipkart.
+● Verify all the mandatory fields such as Name, Email, Password are clearly indicated and
+understandable and must be filled before submissions.
+● Make sure that the email address field only accepts valid email formats and shows error
+for invalid emails.
+● Verify that the password field checks for minimum length, complexity(letters, numbers
+and special characters) and does not allow commonly used passwords.
+● Check “confirm password” matches the “password” field, and also shows an error if it
+doesn’t.
+● Ensure that users must accept terms and condition fields before creating an account.
+● Captcha verification should also be on point to proceed signing up.
+● Verify that error messages should display clear for all the invalid entries.
+● Check the system doesn’t allow duplicate email addresses or phone numbers which are
+already registered.
+● Check whether the radio buttons or dropdowns work perfectly with all the options added.
+● Check if the OTP verification process for mobile numbers is smooth.
+● Test if fields like email or username provide autofill and suggestion options based on
+user input.
+● Ensure that the sign-up page loads within a limited timeframe.
+● Verify security of the data and make sure it is transmitted securely using https and that
+there are no vulnerabilities or data loss.
+● Ensure that a user can successfully create an account and receive a confirmation email
+or message.
+● Check that the sign-up page is accessible to users with disabilities, including screen
+reader compatibility, use of strong tag for instance and keyboard navigation.
