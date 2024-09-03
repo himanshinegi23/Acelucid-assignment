@@ -21,6 +21,7 @@ avoid confusions.
 ● Check buttons exactly pass the values that are pressed by the users.
 ● Check on the battery life of the calculator as per the specificationsṭ
 
+
 2. Write the Scenarios for Watch.
 ● Verify that the watch displays the correct time and it must be accurate.
 ● Check if the watch correctly displays the date and it must handle the leap year.
@@ -38,6 +39,7 @@ damages.
 notification functionalities or alerts are properly working. Moreover check its fitness
 tracking features like heart rate monitoring , step count, etc.
 ● Ensure that the buttons in the watch are responsive and functional
+
 
 3. Write the Scenarios for Sign up page of Gmail or Flipkart.
 ● Verify all the mandatory fields such as Name, Email, Password are clearly indicated and
